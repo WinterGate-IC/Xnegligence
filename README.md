@@ -1,5 +1,7 @@
 # Xnegligence
 
+> Platforms write policies they do not enforce. They promise safety they do not deliver. They bury reports, ignore appeals, and let bad actors return under new accounts while victims are left with nowhere to turn
+
 **Documenting platform security negligence — ban evasion runs rampant, enforcement is broken, and support is nonexistent. Every claim is sourced. Every failure is timestamped. The clock is running.**
 
 ---
